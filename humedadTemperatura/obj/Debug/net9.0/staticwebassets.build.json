@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "AWpoetyUrZHoPx1orlw9arrv42xoWwZ2zsErjF8bLtM=",
+  "Source": "humedadTemperatura",
+  "BasePath": "_content/humedadTemperatura",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
